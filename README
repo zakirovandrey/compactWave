@@ -1,0 +1,3 @@
+To compile:
+
+nvcc run.cu -DNGSIZE=128 -DNT=8 -std=c++17
